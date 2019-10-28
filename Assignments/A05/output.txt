@@ -39,9 +39,7 @@
 	2) Pleasanton 1.03021
 	3) Milpitas 1.17133
   
-.
-.
-.
+  	...
 
 991 : Aventura
 	1) Palm Beach Gardens 0.0557437
