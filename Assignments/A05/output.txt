@@ -1,0 +1,85 @@
+1 : New York
+	1) West New York 0.705248
+	2) Hoboken 2.22754
+	3) Hackensack 3.16429
+2 : Los Angeles
+	1) Glendale 1.04964
+	2) Huntington Park 1.71521
+	3) Compton 2.1761
+3 : Chicago
+	1) Florence 3.92982
+	2) Evanston 4.79491
+	3) Evansville 4.86196
+4 : Houston
+	1) Muskogee 0.0108047
+	2) Tyler 6.63733
+	3) Pearland 8.08713
+5 : Philadelphia
+	1) Camden 3.88815
+	2) Utica 5.75038
+	3) Vineland 11.8736
+6 : Phoenix
+	1) Maricopa 2.4496
+	2) Idaho Falls 3.71897
+	3) Roy 4.42737
+7 : San Antonio
+	1) Wichita Falls 0.0233381
+	2) Lawton 9.46498
+	3) Grand Island 14.6884
+8 : San Diego
+	1) San Marcos 0.473626
+	2) Temecula 1.19027
+	3) Redlands 2.00773
+9 : Dallas
+	1) Fargo 0.671878
+	2) Frisco 2.48979
+	3) Moorhead 2.72922
+10 : San Jose
+	1) Pittsburg 0.145737
+	2) Pleasanton 1.03021
+	3) Milpitas 1.17133
+  
+.
+.
+.
+
+991 : Aventura
+	1) Palm Beach Gardens 0.0557437
+	2) Fort Lauderdale 0.189482
+	3) Greenacres 0.382275
+992 : Martinez
+	1) Palo Alto 0.778753
+	2) Redmond 1.10583
+	3) San Leandro 1.92289
+993 : Greenfield
+	1) Downers Grove 0.114924
+	2) Lombard 0.386065
+	3) Wauwatosa 0.406903
+994 : Apache Junction
+	1) Flagstaff 9.44418
+	2) Spanish Fork 9.78036
+	3) Provo 10.1156
+995 : Monrovia
+	1) Huntington Beach 0.250543
+	2) Buena Park 0.352576
+	3) Westminster 0.73239
+996 : Weslaco
+	1) San Marcos 4.93601
+	2) Hutchinson 6.09606
+	3) Enid 11.2258
+997 : Keizer
+	1) Springfield 0.328715
+	2) Salem 0.699199
+	3) Hillsboro 2.8618
+998 : Spanish Fork
+	1) Provo 0.307129
+	2) Flagstaff 0.308005
+	3) Orem 3.37899
+999 : Beloit
+	1) Janesville 1.07037
+	2) Bloomington 3.12307
+	3) Normal 3.37366
+1000 : Panama City
+	1) Grand Rapids 0.75787
+	2) Kentwood 1.48647
+	3) Anderson 1.92805
